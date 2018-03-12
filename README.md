@@ -1,0 +1,2 @@
+# nagiosconfig
+Nagios Configuration Files
